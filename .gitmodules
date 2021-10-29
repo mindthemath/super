@@ -1,0 +1,3 @@
+[submodule "superpixel-benchmark"]
+	path = superpixel-benchmark
+	url = https://github.com/mathematicalmichael/superpixel-benchmark.git
