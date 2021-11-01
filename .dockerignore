@@ -2,3 +2,5 @@ in/
 out/
 *.mp4
 *.gif
+.venv/
+.vscode/
